@@ -1,6 +1,7 @@
 
 .tbn_1{
     width: 100%;
+    cursor: pointer;
 }
 .video-grid{
     display: grid;
@@ -45,5 +46,8 @@
     font-weight: 500;
     padding: 4px;
     border-radius: 2px;
-
 }    
+.video-title-link{
+    color: black;
+    text-decoration: none;
+}
